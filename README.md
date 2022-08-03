@@ -1,15 +1,15 @@
 
-![capa](https://user-images.githubusercontent.com/78177394/182728185-c0873def-87f8-4c58-a581-d9a2946985b9.png)
+![capa](https://user-images.githubusercontent.com/78177394/182731292-504b0096-3683-4d60-ad0a-653b54237274.png)
  
  #
 
-<center><h2> About me 👩</h2></center>
+### About me 👩
 
 I'm currently a student of Systems Analysis and Development, but I have already completed Technical Computing. In addition, I have already collaborated in the development of some projects and I have skills in different nprogramming languages.
 
  #
 
-<center><h2> Languages and Tools 🖥️</h2>
+### Languages and Tools 🖥️
 
 <div style="display: inline_block"><br>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -21,13 +21,13 @@ I'm currently a student of Systems Analysis and Development, but I have already 
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
     <img align="center" alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
-</div></center>
+</div>
 
 #
 
-<center><h2> Reach me on 📬</h2>
+### Reach me on 📬
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/danielle-de-oliveira-b924b314a)</center>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/danielle-de-oliveira-b924b314a)
 
 #
 
