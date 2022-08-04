@@ -5,7 +5,7 @@
 
 ### About me 👩
 
-I'm currently a student of Systems Analysis and Development, but I have already completed Technical Computing. In addition, I have already collaborated in the development of some projects and I have skills in different nprogramming languages.
+I'm currently a student of Systems Analysis and Development, but I have already completed Technical Computing. In addition, I have already collaborated in the development of some projects and I have skills in different programming languages.
 
  #
 
