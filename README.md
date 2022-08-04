@@ -28,8 +28,3 @@ I'm currently a student of Systems Analysis and Development, but I have already 
 ### Reach me on 📬
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/danielle-de-oliveira-b924b314a)
-
-#
-
-![Danielle GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielleOliveiraC&show_icons=true&theme=dracula) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielleOliveiraC&layout=compact&theme=dracula)](https://github.com/DanielleOliveiraC/github-readme-stats)
