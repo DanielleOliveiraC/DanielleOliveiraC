@@ -1,6 +1,6 @@
 
-![capa](https://user-images.githubusercontent.com/78177394/182731292-504b0096-3683-4d60-ad0a-653b54237274.png)
- 
+![capa](https://user-images.githubusercontent.com/78177394/182826405-309268f1-db5d-4d2f-9299-caa1282548a0.png)
+
  #
 
 ### About me 👩
